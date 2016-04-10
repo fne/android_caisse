@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> FRESCA CAISSE </string>
+    <string name="title_activity_detail_info">Caisse enregistreuse</string>
+    <string name="title_activity_web_view">Caisse enregistreuse</string>
+    <string name="action_rss_mq">Actualité Martinique - uniquement</string>
+    <string name="action_rss_gp">Actualité Guadeloupe - uniquement</string>
+    <string name="action_rss_mq_short">Mada</string>
+    <string name="action_rss_gp_short">Gwada</string>
+    <string name="action_rss_all">Tout</string>
+    <string name="saved_panier">panierData</string>
+    <string name="more_activity_detail_info">En savoir plus</string>
+    <string name="title">TITRE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="title_activity_main_tab">MainTabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_money">+ caisse</string>
+    <string name="action_remove_money">- caisse</string>
+    <string name="action_total_caisse">total caisse</string>
+    <string name="action_caisse">caisse</string>
+    <string name="action_boisson">bar</string>
+    <string name="action_snack">snack</string>
+    <string name="action_reinit">Réinitialiser panier</string>
+    <string name="confirm_reinit">Voulez vous vraiment réinitialiser la caisse ?</string>
+    <string name="ok">OK</string>
+    <string name="annuler">Annuler</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="string_a_propos">À propos</string>
+    <string name="libelle_a_propos">Made by Gwada Incorporation</string>
+    <string-array name="caisse_options">
+        <item>Ajout liquide</item>
+        <item>Retrait liquide</item>
+        <item>Récapitulatif soirée</item>
+    </string-array>
+    <!-- KEY -->
+    <string name="key_total">key_total</string>
+    <string name="key_total_cb">key_total_cb</string>
+    <string name="key_total_espece">key_total_espece</string>
+    <string name="key_liste_mouvements">key_liste_mouvements</string>
+    <string name="key_panier">key_panier</string>
+    <string name="key_produits">key_produits</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment_produit">poduits</string>
+    <color name="green">#006600</color>
+
+</resources>

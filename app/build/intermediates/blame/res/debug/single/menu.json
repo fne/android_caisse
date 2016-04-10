@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\web_view.xml",
+        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\menu\\web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\caisse_menu.xml",
+        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\menu\\caisse_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_info.xml",
+        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\menu\\detail_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_tab.xml",
+        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\menu\\main_tab.xml"
+    }
+]

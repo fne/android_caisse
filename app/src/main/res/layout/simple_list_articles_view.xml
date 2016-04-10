@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dp"
+    android:layout_height="400dp"
+    android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/nom_article"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight="0.7"
+            android:textSize="40dp"
+            android:textColor="@android:color/black"
+            android:text="test"
+            android:textAlignment="center"
+            android:gravity="center_vertical|center"
+            />
+        <TextView
+            android:id="@+id/prix_article"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="80dp"
+            android:textColor="@android:color/black"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:gravity="center_vertical|center"
+
+            android:textAlignment="center"
+            android:text="test" />
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="5dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="5dp"
+    android:background="#FFF"
+    tools:context="fr.info.antillesinfov2.activity.CaisseActivity"
+    android:baselineAligned="false">
+
+    <fragment android:name="fr.info.antillesinfov2.fragment.PanierFragment"
+        android:id="@+id/panier_fragment"
+        android:layout_weight="0.55"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_panier"
+        />
+
+    <fragment android:name="fr.info.antillesinfov2.fragment.ProduitsFragment"
+        android:id="@+id/produits_fragment"
+        android:layout_weight="0.45"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_produits" />
+
+</LinearLayout>

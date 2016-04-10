@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="fr.info.antillesinfov2.fragment.ProduitsFragment">
+
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/gridView1"
+        android:numColumns="4"
+        android:background="#FFF"
+        android:gravity="center"
+        android:columnWidth="75dp"
+
+        android:stretchMode="columnWidth"
+        android:layout_weight="0.85"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" >
+    </GridView>
+    <LinearLayout
+        android:id="@+id/linearConsigne"
+        android:layout_weight="0.15"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        >
+        <Button
+            android:id="@+id/addConsigne"
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:layout_height="match_parent"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="@dimen/activity_vertical_margin"
+            android:text="CONSIGNE"/>
+        <Button
+            android:id="@+id/removeConsigne"
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textSize="@dimen/activity_vertical_margin"
+            android:textColor="@android:color/black"
+            android:text="RETRAIT CONSIGNE"/>
+    </LinearLayout>
+
+</LinearLayout>
