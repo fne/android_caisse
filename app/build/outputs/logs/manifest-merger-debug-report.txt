@@ -1,96 +1,108 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:2:1-47:12
-	xmlns:android
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:2:11-69
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:2:1-51:12
 	package
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:6:5-45
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:4:5-45
 uses-sdk
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:9:5-11:41
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Frankito\StudioProjects\gwadaInformation2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\Frankito\StudioProjects\gwadaInformation2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Frankito\StudioProjects\gwadaInformation2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Frankito\StudioProjects\gwadaInformation2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:11:9-38
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:10:9-35
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:14:5-67
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:14:22-64
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:15:5-79
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:15:22-76
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:16:5-81
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:16:22-78
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:17:5-75
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:15:5-75
 	android:name
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:17:22-72
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:15:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:18:5-80
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:16:5-80
 	android:name
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:18:22-77
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:16:22-77
 application
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:20:5-45:19
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Frankito\StudioProjects\gwadaInformation2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\Frankito\StudioProjects\gwadaInformation2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Frankito\StudioProjects\gwadaInformation2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Frankito\StudioProjects\gwadaInformation2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:18:5-49:19
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
 	android:screenOrientation
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:26:9-46
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:23:9-46
 	android:label
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:25:9-41
-	android:allowBackup
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:22:9-35
-	android:icon
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:24:9-45
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:22:9-41
 	android:configChanges
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:23:9-44
-	android:theme
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:20:9-44
+	android:allowBackup
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:21:9-45
 activity#fr.info.antillesinfov2.activity.CaisseActivity
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:29:9-39:20
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:screenOrientation
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:31:13-50
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:26:13-50
 	android:uiOptions
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:32:13-57
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:27:13-57
 	android:name
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:30:13-52
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:25:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:34:13-38:29
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:28:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:35:17-69
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:35:25-66
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:37:17-77
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:37:27-74
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:30:27-74
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:42:9-44:69
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Frankito\StudioProjects\gwadaInformation2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
-	android:name
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:43:13-58
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:37:9-39:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from C:\Users\Frankito\StudioProjects\gwadaInformation2\app\src\main\AndroidManifest.xml:44:13-66
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:39:13-66
+	android:name
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:38:13-58
+activity#fr.info.antillesinfov2.activity.DetailPanierActivity
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:41:9-48:20
+	android:label
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:43:13-65
+	android:parentActivityName
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:44:13-66
+	android:name
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:42:13-58
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:45:13-47:82
+	android:value
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:47:17-79
+	android:name
+		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:46:17-63

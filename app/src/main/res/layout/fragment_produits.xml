@@ -31,7 +31,9 @@
             android:textColor="@android:color/black"
             android:textStyle="bold"
             android:textSize="@dimen/activity_vertical_margin"
-            android:text="CONSIGNE"/>
+            android:text="CONSIGNE"
+
+            />
         <Button
             android:id="@+id/removeConsigne"
             android:layout_width="0dp"

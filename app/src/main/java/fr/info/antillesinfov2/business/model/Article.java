@@ -1,13 +1,13 @@
 package fr.info.antillesinfov2.business.model;
 
 public class Article {
-	private Integer idProduit;
+	private String idProduit;
 	private Integer quantite;
 
 	/**
 	 * @return the idProduit
 	 */
-	public Integer getIdProduit() {
+	public String getIdProduit() {
 		return idProduit;
 	}
 
@@ -15,7 +15,7 @@ public class Article {
 	 * @param idProduit
 	 *            the idProduit to set
 	 */
-	public void setIdProduit(Integer idProduit) {
+	public void setIdProduit(String idProduit) {
 		this.idProduit = idProduit;
 	}
 

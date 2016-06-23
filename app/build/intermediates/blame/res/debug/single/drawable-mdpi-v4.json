@@ -1,26 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\martinique.png",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-mdpi\\martinique.png"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_annuler.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\drawable-mdpi\\button_annuler.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\martinique.png",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\drawable-mdpi\\martinique.png"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\no_images.jpg",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-mdpi\\no_images.jpg"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\no_images.jpg",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\drawable-mdpi\\no_images.jpg"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fresca.png",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-mdpi\\fresca.png"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_annuler.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-mdpi\\button_annuler.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\guadeloupe.png",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\drawable-mdpi\\guadeloupe.png"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\guadeloupe.png",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-mdpi\\guadeloupe.png"
     }
 ]

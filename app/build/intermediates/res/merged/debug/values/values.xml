@@ -18,11 +18,13 @@
     <color name="green">#006600</color>
     <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_text_size">16sp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <integer name="google_play_services_version">8115000</integer>
     <string name="action_add_money">+ caisse</string>
     <string name="action_boisson">bar</string>
     <string name="action_caisse">caisse</string>
+    <string name="action_config">Configurer caisse</string>
     <string name="action_reinit">Réinitialiser panier</string>
     <string name="action_remove_money">- caisse</string>
     <string name="action_rss_all">Tout</string>
@@ -34,7 +36,7 @@
     <string name="action_snack">snack</string>
     <string name="action_total_caisse">total caisse</string>
     <string name="annuler">Annuler</string>
-    <string name="app_name"> FRESCA CAISSE </string>
+    <string name="app_name">CAISSE</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
@@ -72,6 +74,8 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_blank_fragment_produit">poduits</string>
     <string name="hello_world">Hello world!</string>
+    <string name="key_id_caisse">key_id_caisse</string>
+    <string name="key_id_session">key_id_session</string>
     <string name="key_liste_mouvements">key_liste_mouvements</string>
     <string name="key_panier">key_panier</string>
     <string name="key_produits">key_produits</string>
@@ -79,12 +83,14 @@
     <string name="key_total_cb">key_total_cb</string>
     <string name="key_total_espece">key_total_espece</string>
     <string name="libelle_a_propos">Made by Gwada Incorporation</string>
+    <string name="loading">Chargement en cours</string>
     <string name="more_activity_detail_info">En savoir plus</string>
     <string name="ok">OK</string>
     <string name="saved_panier">panierData</string>
     <string name="string_a_propos">À propos</string>
     <string name="title">TITRE</string>
     <string name="title_activity_detail_info">Caisse enregistreuse</string>
+    <string name="title_activity_detail_panier">DetailPanierActivity</string>
     <string name="title_activity_main_tab">MainTabActivity</string>
     <string name="title_activity_web_view">Caisse enregistreuse</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">

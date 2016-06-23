@@ -85,9 +85,10 @@ public class ProduitAdapter extends BaseAdapter {
         /*InputStream is = ClassLoader
                 .getSystemResourceAsStream("res/drawable/"+p.getProductImage());
         Bitmap bm = BitmapFactory.decodeStream(is);*/
-        if(p.getProductImage()!= null && p.getProductImage().length()>0 && Uri.parse(Environment.getExternalStorageDirectory().getAbsolutePath() + "/image_caisse/"+p.getProductImage())!= null){
+        if(holder.image != null && p.getProductImage()!= null && p.getProductImage().length()>0 && Uri.parse(Environment.getExternalStorageDirectory().getAbsolutePath() + "/image_caisse/"+p.getProductImage())!= null){
             //holder.image.setImageResource(layoutInflater.getContext().getResources().getIdentifier("fr.info.antillesinfov2:drawable/"+p.getProductImage(), null, null));
             holder.image.setImageURI(Uri.parse(Environment.getExternalStorageDirectory().getAbsolutePath() + "/image_caisse/"+p.getProductImage()));
+
         }else{
             holder.text.setText(p.getProductName());
         }

@@ -1,18 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\martinique.png",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\drawable-xxxhdpi\\martinique.png"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\guadeloupe.png",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-xxxhdpi\\guadeloupe.png"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\no_images.jpg",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\drawable-xxxhdpi\\no_images.jpg"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\no_images.jpg",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-xxxhdpi\\no_images.jpg"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\guadeloupe.png",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\drawable-xxxhdpi\\guadeloupe.png"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\martinique.png",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-xxxhdpi\\martinique.png"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\fresca.png",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable-xxxhdpi\\fresca.png"
     }
 ]

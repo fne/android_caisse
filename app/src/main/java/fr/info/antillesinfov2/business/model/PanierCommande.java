@@ -18,6 +18,10 @@ public class PanierCommande {
 	private Integer nbArticles;
 	private Integer moyenPaiement;
 	private String date;
+	private String sessionId;
+	private String caisseId;
+
+
 
 	public String getDate() {
 		return date;
@@ -83,6 +87,22 @@ public class PanierCommande {
 	 */
 	public void setMoyenPaiement(Integer moyenPaiement) {
 		this.moyenPaiement = moyenPaiement;
+	}
+
+	public String getCaisseId() {
+		return caisseId;
+	}
+
+	public void setCaisseId(String caisseId) {
+		this.caisseId = caisseId;
+	}
+
+	public String getSessionId() {
+		return sessionId;
+	}
+
+	public void setSessionId(String sessionId) {
+		this.sessionId = sessionId;
 	}
 
 }

@@ -2,11 +2,10 @@ package fr.info.antillesinfov2.fragment;
 
 import android.app.Activity;
 import android.app.Fragment;
+import android.app.ProgressDialog;
 import android.content.Context;
-import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
-import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 
@@ -16,17 +15,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.GridView;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-
-import org.json.JSONArray;
-import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -37,14 +30,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import fr.info.antillesinfov2.R;
-import fr.info.antillesinfov2.activity.DetailInfoActivity;
-import fr.info.antillesinfov2.activity.MainActivity;
-import fr.info.antillesinfov2.business.model.Categorie;
-import fr.info.antillesinfov2.business.model.News;
+import fr.info.antillesinfov2.business.Constant;
 import fr.info.antillesinfov2.business.model.Produit;
-import fr.info.antillesinfov2.business.service.NewsManager;
-import fr.info.antillesinfov2.business.service.NewsManagerImpl;
-import fr.info.antillesinfov2.business.service.android.NewsAdapter;
 import fr.info.antillesinfov2.business.service.android.ProduitAdapter;
 import fr.info.antillesinfov2.library.HttpClientAntilles;
 
@@ -61,8 +48,7 @@ public class ProduitsFragment extends Fragment {
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
-    private static final String URL_PRODUITS = "http://salsafresca/ws-stock/produits";
-    //private static final String URL_PRODUITS = "http://192.168.0.100/ws-stock/produits";
+    private static final String URL_PRODUITS = Constant.URL_DNS + "/produits";
 
     // TODO: Rename and change types of parameters
     private String mParam1;
@@ -167,15 +153,15 @@ public class ProduitsFragment extends Fragment {
         }
     }
 
-    public void setProduitsCategorie(){
+    public void setProduitsCategorie() {
         for (Produit p : produits) {
-            if (p.getCategory().getCategoryId() == 1) {
+            if (p.getCategory() == 1) {
                 produitsBar.add(p);
             }
-            if (p.getCategory().getCategoryId() == 2) {
+            if (p.getCategory() == 2) {
                 produitsSnack.add(p);
             }
-            if (p.getCategory().getCategoryId() == 3) {
+            if (p.getCategory() == 3) {
                 produitsConsigne.add(p);
             }
         }
@@ -195,13 +181,11 @@ public class ProduitsFragment extends Fragment {
             while ((line = br.readLine()) != null) {
                 String[] p_a = line.split(splitBy);
                 Produit p = new Produit();
-                p.setProductId(Integer.parseInt(p_a[0]));
+                p.setProductCode(p_a[0]);
                 p.setProductImage(p_a[1]);
                 p.setProductName(p_a[2]);
                 p.setProductPrice(Double.parseDouble(p_a[3]));
-                Categorie c = new Categorie();
-                c.setCategoryId(Integer.parseInt(p_a[4]));
-                p.setCategory(c);
+                p.setCategory(Integer.parseInt(p_a[4]));
                 produits.add(p);
             }
             setProduitsCategorie();
@@ -219,7 +203,6 @@ public class ProduitsFragment extends Fragment {
             }
         }
     }
-
 
 
     /**
@@ -293,15 +276,15 @@ public class ProduitsFragment extends Fragment {
         @Override
         protected void onPreExecute() {
             super.onPreExecute();
-            // mProgressDialog.show();
+            ProgressDialog.show(getActivity(), null, getString(R.string.loading));
         }
 
         @Override
         protected void onPostExecute(String produitsReponse) {
-            if(produitsReponse != null){
+            if (produitsReponse != null) {
                 buildProduitsFragment(produitsReponse);
-            }else{
-                Log.i(getTag(), "wifi déconnecté");
+            } else {
+                Log.i(getTag(), "Erreur lors de la récupération des datas");
                 setProduitsFromCSV();
                 afficherProduitsBar();
             }

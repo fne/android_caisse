@@ -5,18 +5,8 @@ public class Produit implements java.io.Serializable {
     private String productName;
     private String productImage;
     private Double productPrice;
-    private Integer productId;
-
-    public Categorie getCategory() {
-        return category;
-    }
-
-    public void setCategory(Categorie category) {
-        this.category = category;
-    }
-
-    private Categorie category;
-
+    private String productCode;
+    private Integer category;
 
     public Produit() {
     }
@@ -42,15 +32,22 @@ public class Produit implements java.io.Serializable {
     }
 
     public String getProductName() {
-
         return productName;
     }
 
-    public Integer getProductId() {
-        return productId;
+    public Integer getCategory() {
+        return category;
     }
 
-    public void setProductId(Integer productId) {
-        this.productId = productId;
+    public void setCategory(Integer category) {
+        this.category = category;
+    }
+
+    public String getProductCode() {
+        return productCode;
+    }
+
+    public void setProductCode(String productCode) {
+        this.productCode = productCode;
     }
 }

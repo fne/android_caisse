@@ -24,4 +24,9 @@
         android:orderInCategory="100"
         android:showAsAction="never"
         android:title="@string/string_a_propos" />
+    <item
+        android:id="@+id/action_config"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_config" />
 </menu>

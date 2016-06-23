@@ -1,78 +1,54 @@
 [
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_produits.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\fragment_produits.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_config_all.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\popup_config_all.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_caisse.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\activity_caisse.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_antille_info_view.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\simple_list_antille_info_view.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_produits_view.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\simple_list_produits_view.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_produit.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\gridview_produit.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_tab.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\activity_main_tab.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_button_view.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\simple_list_button_view.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_articles_view.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\simple_list_articles_view.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_produits_no_image_view.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\simple_list_produits_no_image_view.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gridview.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\activity_gridview.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_panier.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\activity_detail_panier.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_martinique_view.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\fragment_martinique_view.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_articles_view.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\simple_list_articles_view.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_info.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\activity_detail_info.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\popup.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_caisse.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\activity_caisse.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_recap.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\popup_recap.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_recap.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\popup_recap.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\popup.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_produits.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\fragment_produits.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_panier.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\fragment_panier.xml"
     },
     {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_produit.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\gridview_produit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_antille_info_view.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\simple_list_antille_info_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_panier.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\fragment_panier.xml"
-    },
-    {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_guadeloupe_view.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\fragment_guadeloupe_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_produits_no_image_view.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\simple_list_produits_no_image_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_view.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\fragment_all_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_button_view.xml",
-        "source": "C:\\Users\\Frankito\\StudioProjects\\gwadaInformation2\\app\\src\\main\\res\\layout\\simple_list_button_view.xml"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_produits_view.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\simple_list_produits_view.xml"
     }
 ]
