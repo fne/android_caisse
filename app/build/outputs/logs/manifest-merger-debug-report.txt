@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml
@@ -52,7 +52,7 @@ ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest
 	android:name
 		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:16:22-77
 application
-ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:18:5-49:19
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:18:5-50:19
 MERGED from [com.android.support:support-v4:22.2.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\qjrs8151\private\android_caisse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
@@ -93,16 +93,8 @@ MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\qjrs8
 	android:name
 		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:38:13-58
 activity#fr.info.antillesinfov2.activity.DetailPanierActivity
-ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:41:9-48:20
+ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:41:9-49:20
 	android:label
 		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:43:13-65
-	android:parentActivityName
-		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:44:13-66
 	android:name
 		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:42:13-58
-meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:45:13-47:82
-	android:value
-		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:47:17-79
-	android:name
-		ADDED from C:\Users\qjrs8151\private\android_caisse\app\src\main\AndroidManifest.xml:46:17-63

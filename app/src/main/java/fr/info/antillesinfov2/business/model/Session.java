@@ -5,13 +5,13 @@ package fr.info.antillesinfov2.business.model;
  */
 public class Session {
     private String sessionName;
-    private Integer sessionId;
+    private String sessionId;
 
-    public Integer getSessionId() {
+    public String getSessionId() {
         return sessionId;
     }
 
-    public void setSessionId(Integer sessionId) {
+    public void setSessionId(String sessionId) {
         this.sessionId = sessionId;
     }
 

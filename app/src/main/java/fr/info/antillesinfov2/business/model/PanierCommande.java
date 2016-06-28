@@ -16,7 +16,7 @@ public class PanierCommande {
 	private List<Article> articles;
 	private Double prixTotal;
 	private Integer nbArticles;
-	private Integer moyenPaiement;
+	private String moyenPaiement;
 	private String date;
 	private String sessionId;
 	private String caisseId;
@@ -78,14 +78,14 @@ public class PanierCommande {
 	/**
 	 * @return the moyenPaiement
 	 */
-	public Integer getMoyenPaiement() {
+	public String getMoyenPaiement() {
 		return moyenPaiement;
 	}
 
 	/**
 	 * @param moyenPaiement the moyenPaiement to set
 	 */
-	public void setMoyenPaiement(Integer moyenPaiement) {
+	public void setMoyenPaiement(String moyenPaiement) {
 		this.moyenPaiement = moyenPaiement;
 	}
 

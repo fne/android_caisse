@@ -33,7 +33,9 @@ import fr.info.antillesinfov2.R;
 import fr.info.antillesinfov2.business.Constant;
 import fr.info.antillesinfov2.business.model.Produit;
 import fr.info.antillesinfov2.business.service.android.ProduitAdapter;
-import fr.info.antillesinfov2.library.HttpClientAntilles;
+import fr.info.antillesinfov2.business.utils.OnTaskCompleted;
+import fr.info.antillesinfov2.business.utils.UtilsAsyncTask;
+import fr.info.antillesinfov2.library.HttpClient;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -43,7 +45,7 @@ import fr.info.antillesinfov2.library.HttpClientAntilles;
  * Use the {@link ProduitsFragment#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class ProduitsFragment extends Fragment {
+public class ProduitsFragment extends Fragment implements OnTaskCompleted{
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
@@ -58,6 +60,7 @@ public class ProduitsFragment extends Fragment {
     List<Produit> produitsConsigne = new ArrayList<Produit>();
     List<Produit> produitsSnack = new ArrayList<Produit>();
     private GridView gridView;
+    private ProgressDialog loadingDialog;
 
     private OnProduitsFragmentInteractionListener mListener;
 
@@ -101,9 +104,9 @@ public class ProduitsFragment extends Fragment {
         gridView = (GridView) v.findViewById(R.id.gridView1);
         ConnectivityManager connMgr = (ConnectivityManager)
                 getActivity().getSystemService(Context.CONNECTIVITY_SERVICE);
-        NetworkInfo networkInfo = connMgr.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
+        NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
         if ((networkInfo != null) && networkInfo.isConnected()) {
-            new HttpRequestTask().execute(URL_PRODUITS);
+            new UtilsAsyncTask(this).execute(URL_PRODUITS);
         } else {
             Log.i(getTag(), "wifi déconnecté");
             setProduitsFromCSV();
@@ -125,6 +128,8 @@ public class ProduitsFragment extends Fragment {
         });
         return v;
     }
+
+
 
     /**
      * This interface must be implemented by activities that contain this
@@ -254,40 +259,20 @@ public class ProduitsFragment extends Fragment {
         });
     }
 
-    /**
-     * Tache permettant de recuperer les infos via un flux et de completer le
-     * layout
-     *
-     * @author NEBLAI
-     */
-    protected class HttpRequestTask extends AsyncTask<String, Integer, String> {
-
-        @Override
-        protected String doInBackground(String... params) {
-            String reponse = null;
-            try {
-                reponse = new HttpClientAntilles().readContentsOfUrl(params[0]);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-            return reponse;
+    @Override
+    public void onTaskCompleted(String response) {
+        loadingDialog.dismiss();
+        if (response != null) {
+            buildProduitsFragment(response);
+        } else {
+            Log.i(getTag(), "Erreur lors de la récupération des datas");
+            setProduitsFromCSV();
+            afficherProduitsBar();
         }
+    }
 
-        @Override
-        protected void onPreExecute() {
-            super.onPreExecute();
-            ProgressDialog.show(getActivity(), null, getString(R.string.loading));
-        }
-
-        @Override
-        protected void onPostExecute(String produitsReponse) {
-            if (produitsReponse != null) {
-                buildProduitsFragment(produitsReponse);
-            } else {
-                Log.i(getTag(), "Erreur lors de la récupération des datas");
-                setProduitsFromCSV();
-                afficherProduitsBar();
-            }
-        }
+    @Override
+    public void onPreExecuteTask() {
+        loadingDialog = ProgressDialog.show(getActivity(), null, getString(R.string.loading));
     }
 }

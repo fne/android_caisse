@@ -1,10 +1,21 @@
 package fr.info.antillesinfov2.business.model;
 
+import java.math.BigDecimal;
+
 public class Article {
 	private String idProduit;
 	private Integer quantite;
+	private Double price;
 
-	/**
+    public Double getPrice() {
+        return price;
+    }
+
+    public void setPrice(Double price) {
+        this.price = price;
+    }
+
+    /**
 	 * @return the idProduit
 	 */
 	public String getIdProduit() {

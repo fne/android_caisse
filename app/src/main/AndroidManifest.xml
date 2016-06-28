@@ -41,10 +41,11 @@
         <activity
             android:name=".activity.DetailPanierActivity"
             android:label="@string/title_activity_detail_panier"
-            android:parentActivityName=".activity.CaisseActivity">
-            <meta-data
+            >
+            <!--meta-data
+            android:parentActivityName=".activity.CaisseActivity"
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="fr.info.antillesinfov2.activity.CaisseActivity" />
+                android:value="fr.info.antillesinfov2.activity.CaisseActivity" /-->
         </activity>
     </application>
 

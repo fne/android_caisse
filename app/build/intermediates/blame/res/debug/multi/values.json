@@ -12,7 +12,15 @@
                     "endOffset": 275
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2070,
+                        "endLine": 44,
+                        "endColumn": 19,
+                        "endOffset": 2240
+                    }
                 }
             },
             {
@@ -24,7 +32,14 @@
                     "endOffset": 336
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 789,
+                        "endColumn": 60,
+                        "endOffset": 845
+                    }
                 }
             },
             {
@@ -36,7 +51,14 @@
                     "endOffset": 419
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 82,
+                        "endOffset": 168
+                    }
                 }
             },
             {
@@ -48,7 +70,14 @@
                     "endOffset": 492
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 72,
+                        "endOffset": 324
+                    }
                 }
             },
             {
@@ -60,7 +89,14 @@
                     "endOffset": 575
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 82,
+                        "endOffset": 407
+                    }
                 }
             },
             {
@@ -72,7 +108,14 @@
                     "endOffset": 658
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 82,
+                        "endOffset": 251
+                    }
                 }
             },
             {
@@ -84,7 +127,14 @@
                     "endOffset": 731
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 72,
+                        "endOffset": 784
+                    }
                 }
             },
             {
@@ -96,7 +146,14 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 72,
+                        "endOffset": 480
+                    }
                 }
             },
             {
@@ -108,7 +165,14 @@
                     "endOffset": 878
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 73,
+                        "endOffset": 638
+                    }
                 }
             },
             {
@@ -120,7 +184,14 @@
                     "endOffset": 951
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 72,
+                        "endOffset": 711
+                    }
                 }
             },
             {
@@ -132,7 +203,14 @@
                     "endOffset": 1035
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 83,
+                        "endOffset": 564
+                    }
                 }
             },
             {
@@ -144,7 +222,14 @@
                     "endOffset": 1075
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2970,
+                        "endColumn": 39,
+                        "endOffset": 3005
+                    }
                 }
             },
             {
@@ -156,7 +241,14 @@
                     "endOffset": 1450
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
                 }
             },
             {
@@ -164,797 +256,1252 @@
                     "startLine": 20,
                     "startColumn": 4,
                     "startOffset": 1455,
-                    "endColumn": 49,
-                    "endOffset": 1500
+                    "endColumn": 50,
+                    "endOffset": 1501
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 50,
+                        "endOffset": 193
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1505,
-                    "endColumn": 55,
-                    "endOffset": 1556
+                    "startOffset": 1506,
+                    "endColumn": 49,
+                    "endOffset": 1551
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 49,
+                        "endOffset": 299
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1561,
-                    "endColumn": 66,
-                    "endOffset": 1623
+                    "startOffset": 1556,
+                    "endColumn": 55,
+                    "endOffset": 1607
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\version.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 55,
+                        "endOffset": 249
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1628,
-                    "endColumn": 53,
-                    "endOffset": 1677
+                    "startOffset": 1612,
+                    "endColumn": 66,
+                    "endOffset": 1674
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\version.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1682,
-                    "endColumn": 46,
-                    "endOffset": 1724
+                    "startOffset": 1679,
+                    "endColumn": 53,
+                    "endOffset": 1728
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 53,
+                        "endOffset": 939
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1729,
-                    "endColumn": 48,
-                    "endOffset": 1773
+                    "startOffset": 1733,
+                    "endColumn": 46,
+                    "endOffset": 1775
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 46,
+                        "endOffset": 1153
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1778,
-                    "endColumn": 59,
-                    "endOffset": 1833
+                    "startOffset": 1780,
+                    "endColumn": 48,
+                    "endOffset": 1824
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 48,
+                        "endOffset": 1106
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1838,
-                    "endColumn": 62,
-                    "endOffset": 1896
+                    "startOffset": 1829,
+                    "endColumn": 59,
+                    "endOffset": 1884
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 59,
+                        "endOffset": 1323
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1901,
-                    "endColumn": 56,
-                    "endOffset": 1953
+                    "startOffset": 1889,
+                    "endColumn": 52,
+                    "endOffset": 1937
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3670,
+                        "endColumn": 52,
+                        "endOffset": 3718
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1958,
-                    "endColumn": 47,
-                    "endOffset": 2001
+                    "startOffset": 1942,
+                    "endColumn": 62,
+                    "endOffset": 2000
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 62,
+                        "endOffset": 1263
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2006,
-                    "endColumn": 75,
-                    "endOffset": 2077
+                    "startOffset": 2005,
+                    "endColumn": 56,
+                    "endOffset": 2057
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endColumn": 56,
+                        "endOffset": 996
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2082,
-                    "endColumn": 53,
-                    "endOffset": 2131
+                    "startOffset": 2062,
+                    "endColumn": 47,
+                    "endOffset": 2105
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 47,
+                        "endOffset": 551
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2136,
+                    "startOffset": 2110,
                     "endColumn": 75,
-                    "endOffset": 2207
+                    "endOffset": 2181
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 75,
+                        "endOffset": 396
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2212,
-                    "endColumn": 52,
-                    "endOffset": 2260
+                    "startOffset": 2186,
+                    "endColumn": 53,
+                    "endOffset": 2235
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 53,
+                        "endOffset": 503
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2265,
-                    "endColumn": 52,
-                    "endOffset": 2313
+                    "startOffset": 2240,
+                    "endColumn": 75,
+                    "endOffset": 2311
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 75,
+                        "endOffset": 320
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2318,
-                    "endColumn": 46,
-                    "endOffset": 2360
+                    "startOffset": 2316,
+                    "endColumn": 52,
+                    "endOffset": 2364
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 52,
+                        "endOffset": 449
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2365,
-                    "endColumn": 60,
-                    "endOffset": 2421
+                    "startOffset": 2369,
+                    "endColumn": 52,
+                    "endOffset": 2417
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 52,
+                        "endOffset": 885
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2426,
-                    "endColumn": 43,
-                    "endOffset": 2465
+                    "startOffset": 2422,
+                    "endColumn": 46,
+                    "endOffset": 2464
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 46,
+                        "endOffset": 1200
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2470,
-                    "endColumn": 43,
-                    "endOffset": 2509
+                    "startOffset": 2469,
+                    "endColumn": 60,
+                    "endOffset": 2525
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1001,
+                        "endColumn": 60,
+                        "endOffset": 1057
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2514,
-                    "endColumn": 91,
-                    "endOffset": 2601
+                    "startOffset": 2530,
+                    "endColumn": 43,
+                    "endOffset": 2569
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1847,
+                        "endColumn": 43,
+                        "endOffset": 1886
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2606,
-                    "endColumn": 87,
-                    "endOffset": 2689
+                    "startOffset": 2574,
+                    "endColumn": 43,
+                    "endOffset": 2613
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2694,
-                    "endColumn": 156,
-                    "endOffset": 2846
+                    "startOffset": 2618,
+                    "endColumn": 91,
+                    "endOffset": 2705
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 91,
+                        "endOffset": 340
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2851,
-                    "endColumn": 144,
-                    "endOffset": 2991
+                    "startOffset": 2710,
+                    "endColumn": 87,
+                    "endOffset": 2793
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 87,
+                        "endOffset": 192
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2996,
-                    "endColumn": 108,
-                    "endOffset": 3100
+                    "startOffset": 2798,
+                    "endColumn": 156,
+                    "endOffset": 2950
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 160,
+                        "endOffset": 889
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3105,
-                    "endColumn": 231,
-                    "endOffset": 3332
+                    "startOffset": 2955,
+                    "endColumn": 144,
+                    "endOffset": 3095
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4602,
+                        "endColumn": 148,
+                        "endOffset": 4746
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3337,
-                    "endColumn": 125,
-                    "endOffset": 3458
+                    "startOffset": 3100,
+                    "endColumn": 108,
+                    "endOffset": 3204
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4026,
+                        "endColumn": 108,
+                        "endOffset": 4130
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3463,
-                    "endColumn": 180,
-                    "endOffset": 3639
+                    "startOffset": 3209,
+                    "endColumn": 231,
+                    "endOffset": 3436
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 7585,
+                        "endColumn": 235,
+                        "endOffset": 7816
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 3644,
-                    "endColumn": 124,
-                    "endOffset": 3764
+                    "startOffset": 3441,
+                    "endColumn": 125,
+                    "endOffset": 3562
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3483,
+                        "endColumn": 125,
+                        "endOffset": 3604
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3769,
-                    "endColumn": 138,
-                    "endOffset": 3903
+                    "startOffset": 3567,
+                    "endColumn": 180,
+                    "endOffset": 3743
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3087,
+                        "endColumn": 184,
+                        "endOffset": 3267
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3908,
-                    "endColumn": 123,
-                    "endOffset": 4027
+                    "startOffset": 3748,
+                    "endColumn": 124,
+                    "endOffset": 3868
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2811,
+                        "endColumn": 124,
+                        "endOffset": 2931
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4032,
-                    "endColumn": 212,
-                    "endOffset": 4240
+                    "startOffset": 3873,
+                    "endColumn": 138,
+                    "endOffset": 4007
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 142,
+                        "endOffset": 1404
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 4245,
-                    "endColumn": 214,
-                    "endOffset": 4455
+                    "startOffset": 4012,
+                    "endColumn": 123,
+                    "endOffset": 4131
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2540,
+                        "endColumn": 123,
+                        "endOffset": 2659
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4460,
-                    "endColumn": 122,
-                    "endOffset": 4578
+                    "startOffset": 4136,
+                    "endColumn": 212,
+                    "endOffset": 4344
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1843,
+                        "endColumn": 216,
+                        "endOffset": 2055
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 4583,
-                    "endColumn": 164,
-                    "endOffset": 4743
+                    "startOffset": 4349,
+                    "endColumn": 214,
+                    "endOffset": 4559
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2225,
+                        "endColumn": 218,
+                        "endOffset": 2439
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 4748,
-                    "endColumn": 93,
-                    "endOffset": 4837
+                    "startOffset": 4564,
+                    "endColumn": 122,
+                    "endOffset": 4682
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1556,
+                        "endColumn": 122,
+                        "endOffset": 1674
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 4842,
-                    "endColumn": 136,
-                    "endOffset": 4974
+                    "startOffset": 4687,
+                    "endColumn": 164,
+                    "endOffset": 4847
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 6084,
+                        "endColumn": 164,
+                        "endOffset": 6244
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 4979,
-                    "endColumn": 140,
-                    "endOffset": 5115
+                    "startOffset": 4852,
+                    "endColumn": 93,
+                    "endOffset": 4941
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 5869,
+                        "endColumn": 93,
+                        "endOffset": 5958
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 5120,
-                    "endColumn": 89,
-                    "endOffset": 5205
+                    "startOffset": 4946,
+                    "endColumn": 136,
+                    "endOffset": 5078
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endColumn": 136,
+                        "endOffset": 1165
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 5210,
-                    "endColumn": 147,
-                    "endOffset": 5353
+                    "startOffset": 5083,
+                    "endColumn": 140,
+                    "endOffset": 5219
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 5611,
+                        "endColumn": 140,
+                        "endOffset": 5747
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 5358,
-                    "endColumn": 102,
-                    "endOffset": 5456
+                    "startOffset": 5224,
+                    "endColumn": 89,
+                    "endOffset": 5309
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 5408,
+                        "endColumn": 89,
+                        "endOffset": 5493
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 5461,
-                    "endColumn": 150,
-                    "endOffset": 5607
+                    "startOffset": 5314,
+                    "endColumn": 147,
+                    "endOffset": 5457
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 147,
+                        "endOffset": 592
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 5612,
-                    "endColumn": 91,
-                    "endOffset": 5699
+                    "startOffset": 5462,
+                    "endColumn": 102,
+                    "endOffset": 5560
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 102,
+                        "endOffset": 304
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5704,
-                    "endColumn": 110,
-                    "endOffset": 5810
+                    "startOffset": 5565,
+                    "endColumn": 150,
+                    "endOffset": 5711
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 8155,
+                        "endColumn": 150,
+                        "endOffset": 8301
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5815,
-                    "endColumn": 218,
-                    "endOffset": 6029
+                    "startOffset": 5716,
+                    "endColumn": 91,
+                    "endOffset": 5803
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 7940,
+                        "endColumn": 91,
+                        "endOffset": 8027
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 6034,
-                    "endColumn": 94,
-                    "endOffset": 6124
+                    "startOffset": 5808,
+                    "endColumn": 110,
+                    "endOffset": 5914
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 6385,
+                        "endColumn": 110,
+                        "endOffset": 6491
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 6129,
-                    "endColumn": 104,
-                    "endOffset": 6229
+                    "startOffset": 5919,
+                    "endColumn": 218,
+                    "endOffset": 6133
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 6861,
+                        "endColumn": 222,
+                        "endOffset": 7079
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 6234,
-                    "endColumn": 180,
-                    "endOffset": 6410
+                    "startOffset": 6138,
+                    "endColumn": 94,
+                    "endOffset": 6228
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 6629,
+                        "endColumn": 94,
+                        "endOffset": 6719
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 6415,
-                    "endColumn": 124,
-                    "endOffset": 6535
+                    "startOffset": 6233,
+                    "endColumn": 104,
+                    "endOffset": 6333
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7178,
+                        "endColumn": 104,
+                        "endOffset": 7278
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 6540,
-                    "endColumn": 174,
-                    "endOffset": 6710
+                    "startOffset": 6338,
+                    "endColumn": 180,
+                    "endOffset": 6514
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4285,
+                        "endColumn": 184,
+                        "endOffset": 4465
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 6715,
-                    "endColumn": 104,
-                    "endOffset": 6815
+                    "startOffset": 6519,
+                    "endColumn": 124,
+                    "endOffset": 6639
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3755,
+                        "endColumn": 124,
+                        "endOffset": 3875
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 6820,
-                    "endColumn": 62,
-                    "endOffset": 6878
+                    "startOffset": 6644,
+                    "endColumn": 174,
+                    "endOffset": 6814
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5120,
+                        "endColumn": 178,
+                        "endOffset": 5294
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 6883,
-                    "endColumn": 89,
-                    "endOffset": 6968
+                    "startOffset": 6819,
+                    "endColumn": 104,
+                    "endOffset": 6919
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4881,
+                        "endColumn": 104,
+                        "endOffset": 4981
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 6973,
-                    "endColumn": 51,
-                    "endOffset": 7020
+                    "startOffset": 6924,
+                    "endColumn": 62,
+                    "endOffset": 6982
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 7378,
+                        "endColumn": 62,
+                        "endOffset": 7436
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 7025,
-                    "endColumn": 69,
-                    "endOffset": 7090
+                    "startOffset": 6987,
+                    "endColumn": 89,
+                    "endOffset": 7072
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1723,
+                        "endColumn": 89,
+                        "endOffset": 1808
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 7095,
-                    "endColumn": 64,
-                    "endOffset": 7155
+                    "startOffset": 7077,
+                    "endColumn": 55,
+                    "endOffset": 7128
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3146,
+                        "endColumn": 55,
+                        "endOffset": 3197
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 7160,
-                    "endColumn": 52,
-                    "endOffset": 7208
+                    "startOffset": 7133,
+                    "endColumn": 51,
+                    "endOffset": 7180
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 51,
+                        "endOffset": 764
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 7213,
-                    "endColumn": 55,
-                    "endOffset": 7264
+                    "startOffset": 7185,
+                    "endColumn": 69,
+                    "endOffset": 7250
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2835,
+                        "endColumn": 69,
+                        "endOffset": 2900
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 7269,
-                    "endColumn": 57,
-                    "endOffset": 7322
+                    "startOffset": 7255,
+                    "endColumn": 64,
+                    "endOffset": 7315
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2905,
+                        "endColumn": 64,
+                        "endOffset": 2965
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 7327,
-                    "endColumn": 69,
-                    "endOffset": 7392
+                    "startOffset": 7320,
+                    "endColumn": 52,
+                    "endOffset": 7368
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1891,
+                        "endColumn": 52,
+                        "endOffset": 1939
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 7397,
-                    "endColumn": 49,
-                    "endOffset": 7442
+                    "startOffset": 7373,
+                    "endColumn": 55,
+                    "endOffset": 7424
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2600,
+                        "endColumn": 55,
+                        "endOffset": 2651
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 7447,
-                    "endColumn": 53,
-                    "endOffset": 7496
+                    "startOffset": 7429,
+                    "endColumn": 57,
+                    "endOffset": 7482
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2656,
+                        "endColumn": 57,
+                        "endOffset": 2709
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 7501,
-                    "endColumn": 47,
-                    "endOffset": 7544
+                    "startOffset": 7487,
+                    "endColumn": 69,
+                    "endOffset": 7552
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2426,
+                        "endColumn": 69,
+                        "endOffset": 2491
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 7549,
-                    "endColumn": 53,
-                    "endOffset": 7598
+                    "startOffset": 7557,
+                    "endColumn": 49,
+                    "endOffset": 7602
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2496,
+                        "endColumn": 49,
+                        "endOffset": 2541
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 7603,
-                    "endColumn": 61,
-                    "endOffset": 7660
+                    "startOffset": 7607,
+                    "endColumn": 53,
+                    "endOffset": 7656
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2546,
+                        "endColumn": 53,
+                        "endOffset": 2595
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 7665,
-                    "endColumn": 72,
-                    "endOffset": 7733
+                    "startOffset": 7661,
+                    "endColumn": 61,
+                    "endOffset": 7718
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2714,
+                        "endColumn": 61,
+                        "endOffset": 2771
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 7738,
-                    "endColumn": 55,
-                    "endOffset": 7789
+                    "startOffset": 7723,
+                    "endColumn": 47,
+                    "endOffset": 7766
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 46,
                         "startColumn": 4,
-                        "startOffset": 1328,
-                        "endColumn": 55,
-                        "endOffset": 1379
+                        "startOffset": 2262,
+                        "endColumn": 47,
+                        "endOffset": 2305
                     }
                 }
             },
@@ -962,160 +1509,559 @@
                 "to": {
                     "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 7794,
-                    "endColumn": 68,
-                    "endOffset": 7858
+                    "startOffset": 7771,
+                    "endColumn": 53,
+                    "endOffset": 7820
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2310,
+                        "endColumn": 53,
+                        "endOffset": 2359
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 7863,
-                    "endColumn": 33,
-                    "endOffset": 7892
+                    "startOffset": 7825,
+                    "endColumn": 61,
+                    "endOffset": 7882
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2364,
+                        "endColumn": 61,
+                        "endOffset": 2421
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 7897,
-                    "endColumn": 51,
-                    "endOffset": 7944
+                    "startOffset": 7887,
+                    "endColumn": 72,
+                    "endOffset": 7955
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1997,
+                        "endColumn": 72,
+                        "endOffset": 2065
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 7949,
-                    "endColumn": 52,
-                    "endOffset": 7997
+                    "startOffset": 7960,
+                    "endColumn": 69,
+                    "endOffset": 8025
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3600,
+                        "endColumn": 69,
+                        "endOffset": 3665
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 8002,
-                    "endColumn": 39,
-                    "endOffset": 8037
+                    "startOffset": 8030,
+                    "endColumn": 55,
+                    "endOffset": 8081
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1667,
+                        "endColumn": 55,
+                        "endOffset": 1718
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 8042,
-                    "endColumn": 75,
-                    "endOffset": 8113
+                    "startOffset": 8086,
+                    "endColumn": 68,
+                    "endOffset": 8150
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 68,
+                        "endOffset": 672
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 8118,
-                    "endColumn": 77,
-                    "endOffset": 8191
+                    "startOffset": 8155,
+                    "endColumn": 65,
+                    "endOffset": 8216
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3202,
+                        "endColumn": 65,
+                        "endOffset": 3263
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 8196,
-                    "endColumn": 67,
-                    "endOffset": 8259
+                    "startOffset": 8221,
+                    "endColumn": 33,
+                    "endOffset": 8250
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1813,
+                        "endColumn": 33,
+                        "endOffset": 1842
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 8264,
-                    "endColumn": 72,
-                    "endOffset": 8332
+                    "startOffset": 8255,
+                    "endColumn": 54,
+                    "endOffset": 8305
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3379,
+                        "endColumn": 54,
+                        "endOffset": 3429
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 8337,
-                    "endLine": 101,
-                    "endColumn": 12,
-                    "endOffset": 8623
+                    "startOffset": 8310,
+                    "endColumn": 62,
+                    "endOffset": 8368
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3316,
+                        "endColumn": 62,
+                        "endOffset": 3374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 8373,
+                    "endColumn": 51,
+                    "endOffset": 8420
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 51,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 8425,
+                    "endColumn": 52,
+                    "endOffset": 8473
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1944,
+                        "endColumn": 52,
+                        "endOffset": 1992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 8478,
+                    "endColumn": 54,
+                    "endOffset": 8528
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1525,
+                        "endColumn": 54,
+                        "endOffset": 1575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 8533,
+                    "endColumn": 81,
+                    "endOffset": 8610
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1328,
+                        "endColumn": 81,
+                        "endOffset": 1405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 8615,
+                    "endColumn": 67,
+                    "endOffset": 8678
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1580,
+                        "endColumn": 67,
+                        "endOffset": 1643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 8683,
+                    "endColumn": 79,
+                    "endOffset": 8758
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1410,
+                        "endColumn": 79,
+                        "endOffset": 1485
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 8628,
-                    "endLine": 104,
-                    "endColumn": 12,
-                    "endOffset": 8783
+                    "startOffset": 8763,
+                    "endColumn": 57,
+                    "endOffset": 8816
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3088,
+                        "endColumn": 57,
+                        "endOffset": 3141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 8821,
+                    "endColumn": 39,
+                    "endOffset": 8856
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 39,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 8861,
+                    "endColumn": 75,
+                    "endOffset": 8932
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 75,
+                        "endOffset": 171
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 8788,
-                    "endLine": 111,
-                    "endColumn": 12,
-                    "endOffset": 9141
+                    "startOffset": 8937,
+                    "endColumn": 77,
+                    "endOffset": 9010
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3010,
+                        "endColumn": 77,
+                        "endOffset": 3083
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 112,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 9146,
-                    "endLine": 115,
-                    "endColumn": 12,
-                    "endOffset": 9290
+                    "startOffset": 9015,
+                    "endColumn": 67,
+                    "endOffset": 9078
                 },
                 "from": {
-                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 67,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9083,
+                    "endColumn": 72,
+                    "endOffset": 9151
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 72,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 9156,
+                    "endColumn": 71,
+                    "endOffset": 9223
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3528,
+                        "endColumn": 71,
+                        "endOffset": 3595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 9228,
+                    "endColumn": 93,
+                    "endOffset": 9317
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3434,
+                        "endColumn": 93,
+                        "endOffset": 3523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 9322,
+                    "endColumn": 47,
+                    "endOffset": 9365
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3268,
+                        "endColumn": 47,
+                        "endOffset": 3311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 9370,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 9656
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9661,
+                    "endLine": 120,
+                    "endColumn": 12,
+                    "endOffset": 9816
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 9821,
+                    "endLine": 127,
+                    "endColumn": 12,
+                    "endOffset": 10174
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 10179,
+                    "endLine": 131,
+                    "endColumn": 12,
+                    "endOffset": 10323
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1027,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1171
+                    }
                 }
             }
         ]

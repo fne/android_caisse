@@ -1,10 +1,7 @@
 package fr.info.antillesinfov2.business.service;
 
 import android.os.Environment;
-import android.util.Log;
 
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Date;
 import java.util.List;
@@ -17,7 +14,7 @@ import fr.info.antillesinfov2.business.model.Retrait;
  *
  * @author neblai
  */
-public class CSVFileWriter {
+public class FileWriter {
 
     // Delimiter used in CSV file
     private static final String COMMA_DELIMITER = ",";
@@ -37,44 +34,66 @@ public class CSVFileWriter {
 
     public void writeCsvFile(final String fileName, List<Retrait> retraits, String montantCB, String montantEspece, String montantTotal) {
 
-        FileWriter fileWriter = null;
+        java.io.FileWriter fileWriter = null;
         try {
             String baseDir = Environment.getExternalStoragePublicDirectory("csv").getAbsolutePath();
-            fileWriter = new FileWriter(baseDir + fileName);
+            fileWriter = new java.io.FileWriter(baseDir + fileName);
 
-            fileWriter.append(CSVFileWriter.HEADER_RECAP);
-            fileWriter.append(CSVFileWriter.COMMA_DELIMITER);
+            fileWriter.append(FileWriter.HEADER_RECAP);
+            fileWriter.append(FileWriter.COMMA_DELIMITER);
             Date date = new Date();
             fileWriter.append(date.toString());
-            fileWriter.append(CSVFileWriter.NEW_LINE_SEPARATOR);
+            fileWriter.append(FileWriter.NEW_LINE_SEPARATOR);
             //montantCB
             fileWriter.append("Montant total Espèce:");
-            fileWriter.append(CSVFileWriter.COMMA_DELIMITER);
+            fileWriter.append(FileWriter.COMMA_DELIMITER);
             fileWriter.append(montantEspece);
-            fileWriter.append(CSVFileWriter.NEW_LINE_SEPARATOR);
+            fileWriter.append(FileWriter.NEW_LINE_SEPARATOR);
             //montantCheque
             fileWriter.append("Montant total CB:");
-            fileWriter.append(CSVFileWriter.COMMA_DELIMITER);
+            fileWriter.append(FileWriter.COMMA_DELIMITER);
             fileWriter.append(montantCB);
-            fileWriter.append(CSVFileWriter.NEW_LINE_SEPARATOR);
+            fileWriter.append(FileWriter.NEW_LINE_SEPARATOR);
             //montantTotal caisse
             fileWriter.append("Montant total Caisse:");
-            fileWriter.append(CSVFileWriter.COMMA_DELIMITER);
+            fileWriter.append(FileWriter.COMMA_DELIMITER);
             fileWriter.append(montantTotal);
-            fileWriter.append(CSVFileWriter.NEW_LINE_SEPARATOR);
+            fileWriter.append(FileWriter.NEW_LINE_SEPARATOR);
 
             //recap des mouvements
-            fileWriter.append(CSVFileWriter.HEADER_MOUVEMENT);
-            fileWriter.append(CSVFileWriter.NEW_LINE_SEPARATOR);
+            fileWriter.append(FileWriter.HEADER_MOUVEMENT);
+            fileWriter.append(FileWriter.NEW_LINE_SEPARATOR);
             for (final Retrait r : retraits) {
                 fileWriter.append(r.getDateMouvement());
-                fileWriter.append(CSVFileWriter.COMMA_DELIMITER);
+                fileWriter.append(FileWriter.COMMA_DELIMITER);
                 fileWriter.append(r.getLibelle());
-                fileWriter.append(CSVFileWriter.COMMA_DELIMITER);
+                fileWriter.append(FileWriter.COMMA_DELIMITER);
                 fileWriter.append(Double.toString(r.getMontant()));
-                fileWriter.append(CSVFileWriter.NEW_LINE_SEPARATOR);
+                fileWriter.append(FileWriter.NEW_LINE_SEPARATOR);
             }
             System.out.println("CSV file was created successfully !!!");
+        } catch (final Exception e) {
+            System.out.println("Error in CsvFileWriter !!!");
+            e.printStackTrace();
+        } finally {
+            try {
+                fileWriter.flush();
+                fileWriter.close();
+            } catch (final IOException e) {
+                System.out.println("Error while flushing/closing fileWriter !!!");
+                e.printStackTrace();
+            }
+        }
+    }
+
+    public void writeJsonFile(final String fileName, String fichier) {
+
+        java.io.FileWriter fileWriter = null;
+        try {
+            String baseDir = Environment.getExternalStoragePublicDirectory("csv").getAbsolutePath();
+            fileWriter = new java.io.FileWriter(baseDir + fileName);
+            fileWriter.append(fichier);
+                        System.out.println("JSON file was created successfully !!!");
         } catch (final Exception e) {
             System.out.println("Error in CsvFileWriter !!!");
             e.printStackTrace();

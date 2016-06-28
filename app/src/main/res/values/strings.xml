@@ -23,6 +23,14 @@
     <string name="action_snack">snack</string>
     <string name="action_reinit">Réinitialiser panier</string>
     <string name="action_config">Configurer caisse</string>
+    <string name="string_config">Configuration de la session utilisateur</string>
+    <string name="string_error_config">Les champs sont mal renseignés.</string>
+
+    <!-- libelle detail panier-->
+    <string name="string_commandes">Commandes</string>
+    <string name="string_detail_commandes">Detail commande</string>
+
+    <!-- utils-->
     <string name="loading">Chargement en cours</string>
     <string name="confirm_reinit">Voulez vous vraiment réinitialiser la caisse ?</string>
     <string name="ok">OK</string>
@@ -44,11 +52,21 @@
     <string name="key_produits">key_produits</string>
     <string name="key_id_caisse">key_id_caisse</string>
     <string name="key_id_session">key_id_session</string>
+    <string name="key_recap_PANIER">key_recap_panier</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_blank_fragment_produit">poduits</string>
     <color name="green">#006600</color>
     <string name="title_activity_detail_panier">DetailPanierActivity</string>
-
+    <string name="string_recap_caisse">Commandes</string>
+    <string name="date_commande">Date commande</string>
+    <string name="nombre_d_articles">Nombre d\' articles</string>
+    <string name="total_en">Total en €</string>
+    <string name="r_glement_esp_ce">Règlement espèce:</string>
+    <string name="r_glement_cb">Règlement CB:</string>
+    <string name="total_caisse_courante_cb_espece">Total caisse courante CB + Espece</string>
+    <string name="total_caisse_courante">Total caisse courante</string>
+    <string name="liste_des_mouvements">Liste des mouvements</string>
+    <string name="action_create_json">Stark</string>
 </resources>

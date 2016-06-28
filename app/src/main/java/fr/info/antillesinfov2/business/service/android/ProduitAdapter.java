@@ -1,11 +1,9 @@
 package fr.info.antillesinfov2.business.service.android;
 
 import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Environment;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -13,7 +11,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import java.io.InputStream;
+import java.io.File;
 import java.util.List;
 
 import fr.info.antillesinfov2.R;
@@ -56,25 +54,28 @@ public class ProduitAdapter extends BaseAdapter {
      * Explication juste en dessous.
      */
     public View getView(int position, View convertView, ViewGroup parent) {
-        ViewHolder holder;
         Produit p = (Produit) getItem(position);
+        ViewHolder holder;
         if (convertView == null) {
-            if(p.getProductImage()!=null && p.getProductImage().length()>0){
-                convertView = layoutInflater.inflate(
-                        R.layout.simple_list_button_view, null);
-                holder = new ViewHolder();
-                holder.image = (ImageView) convertView
-                        .findViewById(R.id.img_produit);
-                convertView.setTag(holder);
-            }else{
-                convertView = layoutInflater.inflate(
-                        R.layout.simple_list_produits_no_image_view, null);
-                holder = new ViewHolder();
-                holder.text = (TextView) convertView
-                        .findViewById(R.id.nom_produit);
-                convertView.setTag(holder);
-            }
+            if (p.getProductImage() != null && p.getProductImage().length() > 0 &&new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/image_caisse/" + p.getProductImage()).exists()) {
+                //File f = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/image_caisse/" + p.getProductImage());
+                //if (f.exists()) {
+                    convertView = layoutInflater.inflate(
+                            R.layout.simple_list_button_view, null);
+                    holder = new ViewHolder();
+                    holder.image = (ImageView) convertView
+                            .findViewById(R.id.img_produit);
+                    convertView.setTag(holder);
+                } else {
+                    convertView = layoutInflater.inflate(
+                            R.layout.simple_list_produits_no_image_view, null);
+                    holder = new ViewHolder();
+                    holder.text = (TextView) convertView
+                            .findViewById(R.id.nom_produit);
+                    convertView.setTag(holder);
 
+               // }
+            }
         } else {
             holder = (ViewHolder) convertView.getTag();
         }
@@ -85,11 +86,11 @@ public class ProduitAdapter extends BaseAdapter {
         /*InputStream is = ClassLoader
                 .getSystemResourceAsStream("res/drawable/"+p.getProductImage());
         Bitmap bm = BitmapFactory.decodeStream(is);*/
-        if(holder.image != null && p.getProductImage()!= null && p.getProductImage().length()>0 && Uri.parse(Environment.getExternalStorageDirectory().getAbsolutePath() + "/image_caisse/"+p.getProductImage())!= null){
+        if (holder.image != null && p.getProductImage() != null && p.getProductImage().length() > 0 && Uri.parse(Environment.getExternalStorageDirectory().getAbsolutePath() + "/image_caisse/" + p.getProductImage()) != null) {
             //holder.image.setImageResource(layoutInflater.getContext().getResources().getIdentifier("fr.info.antillesinfov2:drawable/"+p.getProductImage(), null, null));
-            holder.image.setImageURI(Uri.parse(Environment.getExternalStorageDirectory().getAbsolutePath() + "/image_caisse/"+p.getProductImage()));
+            holder.image.setImageURI(Uri.parse(Environment.getExternalStorageDirectory().getAbsolutePath() + "/image_caisse/" + p.getProductImage()));
 
-        }else{
+        } else {
             holder.text.setText(p.getProductName());
         }
         return convertView;

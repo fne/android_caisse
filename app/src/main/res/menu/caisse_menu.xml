@@ -15,18 +15,29 @@
         android:showAsAction="always"
         android:title="@string/action_caisse" />
     <item
+        android:id="@+id/action_recap_caisse"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/string_recap_caisse" />
+    <item
         android:id="@+id/action_reinit"
         android:orderInCategory="100"
         android:showAsAction="never"
         android:title="@string/action_reinit" />
     <item
-        android:id="@+id/action_a_propos"
+        android:id="@+id/action_json"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/string_a_propos" />
+        android:title="@string/action_create_json" />
+
     <item
         android:id="@+id/action_config"
         android:orderInCategory="100"
         android:showAsAction="never"
         android:title="@string/action_config" />
+    <item
+        android:id="@+id/action_a_propos"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/string_a_propos" />
 </menu>

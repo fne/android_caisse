@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/linear_border">
+
+    <TextView
+        android:id="@+id/commande_date"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="0.4"
+        android:gravity="center_vertical|center"
+        android:text="test"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/commande_nb_article"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="0.3"
+        android:gravity="center_vertical|center"
+        android:text="test"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/commande_total"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="0.3"
+        android:gravity="center_vertical|center"
+        android:text="test"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+</LinearLayout>

@@ -18,6 +18,7 @@
     <color name="green">#006600</color>
     <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_min_padding">5dp</dimen>
     <dimen name="activity_text_size">16sp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <integer name="google_play_services_version">8115000</integer>
@@ -25,6 +26,7 @@
     <string name="action_boisson">bar</string>
     <string name="action_caisse">caisse</string>
     <string name="action_config">Configurer caisse</string>
+    <string name="action_create_json">Stark</string>
     <string name="action_reinit">Réinitialiser panier</string>
     <string name="action_remove_money">- caisse</string>
     <string name="action_rss_all">Tout</string>
@@ -70,6 +72,7 @@
     <string name="common_google_play_services_updating_title">Google Play services are updating</string>
     <string name="common_open_on_phone">Open on phone</string>
     <string name="confirm_reinit">Voulez vous vraiment réinitialiser la caisse ?</string>
+    <string name="date_commande">Date commande</string>
     <string name="description">DESCRIPTION</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_blank_fragment_produit">poduits</string>
@@ -79,20 +82,33 @@
     <string name="key_liste_mouvements">key_liste_mouvements</string>
     <string name="key_panier">key_panier</string>
     <string name="key_produits">key_produits</string>
+    <string name="key_recap_PANIER">key_recap_panier</string>
     <string name="key_total">key_total</string>
     <string name="key_total_cb">key_total_cb</string>
     <string name="key_total_espece">key_total_espece</string>
     <string name="libelle_a_propos">Made by Gwada Incorporation</string>
+    <string name="liste_des_mouvements">Liste des mouvements</string>
     <string name="loading">Chargement en cours</string>
     <string name="more_activity_detail_info">En savoir plus</string>
+    <string name="nombre_d_articles">Nombre d\' articles</string>
     <string name="ok">OK</string>
+    <string name="r_glement_cb">Règlement CB:</string>
+    <string name="r_glement_esp_ce">Règlement espèce:</string>
     <string name="saved_panier">panierData</string>
     <string name="string_a_propos">À propos</string>
+    <string name="string_commandes">Commandes</string>
+    <string name="string_config">Configuration de la session utilisateur</string>
+    <string name="string_detail_commandes">Detail commande</string>
+    <string name="string_error_config">Les champs sont mal renseignés.</string>
+    <string name="string_recap_caisse">Commandes</string>
     <string name="title">TITRE</string>
     <string name="title_activity_detail_info">Caisse enregistreuse</string>
     <string name="title_activity_detail_panier">DetailPanierActivity</string>
     <string name="title_activity_main_tab">MainTabActivity</string>
     <string name="title_activity_web_view">Caisse enregistreuse</string>
+    <string name="total_caisse_courante">Total caisse courante</string>
+    <string name="total_caisse_courante_cb_espece">Total caisse courante CB + Espece</string>
+    <string name="total_en">Total en €</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in

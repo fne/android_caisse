@@ -8,6 +8,10 @@
         "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\simple_list_antille_info_view.xml"
     },
     {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_config_caisse_id.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\popup_config_caisse_id.xml"
+    },
+    {
         "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_produit.xml",
         "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\gridview_produit.xml"
     },
@@ -38,6 +42,10 @@
     {
         "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_recap.xml",
         "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\popup_recap.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_commande_view.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\layout\\simple_list_commande_view.xml"
     },
     {
         "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_produits.xml",
