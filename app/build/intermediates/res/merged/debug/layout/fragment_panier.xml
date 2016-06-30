@@ -2,90 +2,96 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="fr.info.antillesinfov2.fragment.ResumeFragment"
-    >
+    tools:context="fr.info.antillesinfov2.activity.CaisseActivity">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical" >
+        android:orientation="vertical">
+
         <ListView
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="0.85"
-            android:paddingBottom="2dp"
             android:id="@+id/produitsRecapitulatifs"
-            android:layout_gravity="left|top"
-            android:textColor="@android:color/black"
-            android:fadeScrollbars="false"
-            android:scrollbarSize="50dp"
-            android:background="@drawable/background_listview"
-            />
-        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="0.15"
-            android:layout_gravity="bottom"
+            android:layout_gravity="left|top"
+            android:layout_weight="0.85"
+            android:background="@drawable/background_listview"
+            android:fadeScrollbars="false"
+            android:paddingBottom="2dp"
+            android:scrollbarSize="50dp"
+            android:textColor="@android:color/black" />
+
+        <LinearLayout
             android:id="@+id/actionPanierLayout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="bottom"
+            android:layout_weight="0.10"
             android:orientation="horizontal"
-            android:weightSum="1">
+            android:weightSum="1"
+            android:layout_marginTop="5dp">
+
             <Button
-                android:text="VIDER"
-                android:layout_width="0dp"
-                android:layout_weight="0.25"
-                android:layout_height="match_parent"
                 android:id="@+id/button_vider"
-                android:background="@drawable/button_annuler"
-                android:layout_marginRight="10dp"
-                android:paddingLeft="10dp"
-                android:paddingRight="10dp"
-                android:textSize="@dimen/activity_vertical_margin"
-                android:textStyle="bold"
-                />
-            <Button
-                android:text="CB"
                 android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
                 android:layout_weight="0.25"
-                android:layout_height="match_parent"
-                android:id="@+id/button_cb"
-                android:background="@drawable/button"
-                android:layout_marginRight="10dp"
+                android:background="@drawable/button_annuler"
+                android:drawableLeft="@drawable/ic_action_trash"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
+                android:text="@string/ac_vider"
+                android:textAllCaps="true"
                 android:textSize="@dimen/activity_vertical_margin"
-                android:textStyle="bold"
-                />
+                android:textStyle="bold" />
+
             <Button
-                android:text="ESPECE"
+                android:id="@+id/button_cb"
                 android:layout_width="0dp"
-                android:layout_weight="0.30"
                 android:layout_height="match_parent"
-                android:id="@+id/button_espece"
-                android:background="@drawable/button"
                 android:layout_marginRight="10dp"
+                android:layout_weight="0.25"
+                android:drawableLeft="@drawable/ic_action_trash"
+                android:background="@drawable/button"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
+                android:text="@string/cb"
                 android:textSize="@dimen/activity_vertical_margin"
-                android:textStyle="bold"
-                />
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/button_espece"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0.30"
+                android:background="@drawable/button"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/espece"
+                android:textSize="@dimen/activity_vertical_margin"
+                android:textStyle="bold" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:text="TOTAL:"
-                android:textColor="@android:color/black"
-                android:textSize="@dimen/activity_vertical_margin"
-                android:paddingLeft="10dp"
                 android:layout_marginRight="3dp"
                 android:gravity="center_vertical"
-                android:textIsSelectable="false" />
-            <TextView
+                android:paddingLeft="10dp"
+                android:text="@string/total"
                 android:textColor="@android:color/black"
+                android:textIsSelectable="false"
+                android:textSize="@dimen/activity_vertical_margin" />
+
+            <TextView
+                android:id="@+id/total_caisse"
                 android:layout_width="0dp"
-                android:layout_weight="0.15"
                 android:layout_height="match_parent"
-                android:textSize="@dimen/activity_vertical_margin"
-                android:text="test"
+                android:layout_weight="0.15"
                 android:gravity="center_vertical|right"
-                android:id="@+id/total_caisse"/>
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/activity_vertical_margin" />
 
         </LinearLayout>
     </LinearLayout>

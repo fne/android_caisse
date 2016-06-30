@@ -3,6 +3,7 @@ package fr.info.antillesinfov2.activity.dialog;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.AdapterView;
@@ -66,7 +67,10 @@ public class DialogHandler {
                     public void onClick(View v) {
                         if (!TextUtils.isEmpty(it_caisse.getText().toString()) && !TextUtils.isEmpty(it_session.getText().toString())) {
                             handleConfig(it_caisse.getText().toString(), it_session.getText().toString());
-                            activity.getActionBar().setTitle(it_caisse.getText().toString());
+                            Toolbar toolbar = (Toolbar) activity.findViewById(R.id.my_toolbar);
+                            toolbar.setTitle(it_caisse.getText().toString());
+                            //activity.
+                            //activity.getActionBar().setTitle(it_caisse.getText().toString());
                             ad_config.dismiss();
                         } else {
                             Toast.makeText(activity, activity.getString(R.string.string_error_config), Toast.LENGTH_SHORT).show();

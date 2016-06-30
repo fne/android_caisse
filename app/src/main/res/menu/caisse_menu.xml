@@ -1,43 +1,48 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/action_boisson"
+        android:icon="@drawable/ic_local_bar"
         android:orderInCategory="100"
-        android:showAsAction="always"
-        android:title="@string/action_boisson" />
+        android:title="@string/action_boisson"
+        app:showAsAction="always" />
     <item
         android:id="@+id/action_snack"
+        android:icon="@drawable/ic_restaurant_menu"
         android:orderInCategory="100"
-        android:showAsAction="always"
-        android:title="@string/action_snack" />
+        android:title="@string/action_snack"
+        app:showAsAction="always" />
+
     <item
         android:id="@+id/action_caisse"
         android:orderInCategory="100"
-        android:showAsAction="always"
-        android:title="@string/action_caisse" />
+        android:title="@string/action_caisse"
+        app:showAsAction="never" />
     <item
         android:id="@+id/action_recap_caisse"
         android:orderInCategory="100"
-        android:showAsAction="always"
-        android:title="@string/string_recap_caisse" />
+        android:title="@string/string_recap_caisse"
+        app:showAsAction="never" />
     <item
         android:id="@+id/action_reinit"
         android:orderInCategory="100"
-        android:showAsAction="never"
-        android:title="@string/action_reinit" />
+        android:title="@string/action_reinit"
+        app:showAsAction="never" />
     <item
         android:id="@+id/action_json"
         android:orderInCategory="100"
-        android:showAsAction="never"
-        android:title="@string/action_create_json" />
+        android:title="@string/action_create_json"
+        app:showAsAction="never" />
 
     <item
         android:id="@+id/action_config"
         android:orderInCategory="100"
-        android:showAsAction="never"
-        android:title="@string/action_config" />
+        android:title="@string/action_config"
+        app:showAsAction="never" />
     <item
         android:id="@+id/action_a_propos"
         android:orderInCategory="100"
-        android:showAsAction="never"
-        android:title="@string/string_a_propos" />
+        android:title="@string/string_a_propos"
+        app:showAsAction="never" />
 </menu>

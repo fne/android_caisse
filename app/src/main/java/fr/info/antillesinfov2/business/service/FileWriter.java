@@ -1,5 +1,6 @@
 package fr.info.antillesinfov2.business.service;
 
+import android.media.MediaScannerConnection;
 import android.os.Environment;
 
 import java.io.IOException;

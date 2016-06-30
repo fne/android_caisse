@@ -1,28 +1,28 @@
 package fr.info.antillesinfov2.library;
 
-import android.app.Activity;
 import android.util.Log;
 
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.entity.StringEntity;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.params.HttpConnectionParams;
-import org.apache.http.params.HttpParams;
+import com.squareup.okhttp.MediaType;
+import com.squareup.okhttp.OkHttpClient;
+import com.squareup.okhttp.Request;
+import com.squareup.okhttp.RequestBody;
+import com.squareup.okhttp.Response;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.util.concurrent.TimeUnit;
 
 public class HttpClient {
     private static final String DEBUG_TAG = "HttpClient";
-    private final DefaultHttpClient mhttpClient;
+    private final OkHttpClient mhttpClient;
     private static HttpClient mInstance = null;
+    public static final MediaType MEDIA_TYPE_MARKDOWN
+            = MediaType.parse("application/json; charset=utf-8");
 
     public HttpClient() {
-        mhttpClient = new DefaultHttpClient();
+        mhttpClient = new OkHttpClient();
     }
 
     public synchronized static HttpClient getInstance() {
@@ -32,48 +32,47 @@ public class HttpClient {
         return mInstance;
     }
 
-    public HttpResponse get(String url) throws IOException {
-        HttpGet request = new HttpGet(url);
-        // execution de la requete
-        final HttpParams httpParameters = mhttpClient.getParams();
-        HttpConnectionParams.setConnectionTimeout(httpParameters, 3000);
-        HttpConnectionParams.setSoTimeout(httpParameters, 3000);
-        return mhttpClient.execute(request);
+    public Response get(String url) throws IOException {
+        Request request = new Request.Builder()
+                .url(url)
+                .build();
+        mhttpClient.setConnectTimeout(3000, TimeUnit.MILLISECONDS);
+        Response response = mhttpClient.newCall(request).execute();
+        if (!response.isSuccessful()) throw new IOException("Unexpected code " + response);
+        return response;
     }
 
-    public HttpResponse post(String url, String requestBody) throws IOException {
-        HttpPost request = new HttpPost(url);
-        //DefaultHttpClient httpclient = new DefaultHttpClient();
-        StringEntity se = new StringEntity(requestBody);
-        request.setEntity(se);
-        request.setHeader("Content-Type", "application/json");
-        HttpResponse httpResponse = mhttpClient.execute(request);
+    public Response post(String url, String postBody) throws IOException {
+        Request request = new Request.Builder()
+                .url(url)
+                .post(RequestBody.create(MEDIA_TYPE_MARKDOWN, postBody))
+                .build();
+
+        Response httpResponse = mhttpClient.newCall(request).execute();
+        if (!httpResponse.isSuccessful())
+            throw new IOException("Unexpected code " + httpResponse.code());
         return httpResponse;
     }
 
     public String readContentsOfUrl(String url) throws IOException {
-        try {
-            String result = null;
-            //requete http avec set du proxy
-            HttpResponse httpResponse = this.get(url);
-            int response = httpResponse.getStatusLine().getStatusCode();
-            if (response != 200) {
-                throw new IOException("erreur sur le flux reçu");
-            }
-            Log.d(DEBUG_TAG, "The response is: " + response);
-            //lecture de la requete http
-            InputStream is = httpResponse.getEntity().getContent();
-            BufferedReader reader = new BufferedReader(
-                    new InputStreamReader(is));
-            String line = reader.readLine();
-            result = line;
-            while ((line = reader.readLine()) != null) {
-                result += line;
-            }
-            return result;
-        } finally {
-            mhttpClient.getConnectionManager().closeExpiredConnections();
+        String result = null;
+        //requete http avec set du proxy
+        Response httpResponse = this.get(url);
+        int response = httpResponse.code();
+        if (response != 200) {
+            throw new IOException("erreur sur le flux reçu");
         }
+        Log.d(DEBUG_TAG, "The response is: " + response);
+        //lecture de la requete http
+        InputStream is = httpResponse.body().byteStream();
+        BufferedReader reader = new BufferedReader(
+                new InputStreamReader(is));
+        String line = reader.readLine();
+        result = line;
+        while ((line = reader.readLine()) != null) {
+            result += line;
+        }
+        return result;
     }
 
 }

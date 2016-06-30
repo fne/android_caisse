@@ -4,27 +4,22 @@
     <string name="app_name">CAISSE</string>
     <string name="title_activity_detail_info">Caisse enregistreuse</string>
     <string name="title_activity_web_view">Caisse enregistreuse</string>
-    <string name="action_rss_mq">Actualité Martinique - uniquement</string>
-    <string name="action_rss_gp">Actualité Guadeloupe - uniquement</string>
-    <string name="action_rss_mq_short">Mada</string>
-    <string name="action_rss_gp_short">Gwada</string>
-    <string name="action_rss_all">Tout</string>
     <string name="saved_panier">panierData</string>
-    <string name="more_activity_detail_info">En savoir plus</string>
-    <string name="title">TITRE</string>
-    <string name="description">DESCRIPTION</string>
-    <string name="title_activity_main_tab">MainTabActivity</string>
-    <string name="action_settings">Settings</string>
     <string name="action_add_money">+ caisse</string>
     <string name="action_remove_money">- caisse</string>
     <string name="action_total_caisse">total caisse</string>
-    <string name="action_caisse">caisse</string>
-    <string name="action_boisson">bar</string>
-    <string name="action_snack">snack</string>
-    <string name="action_reinit">Réinitialiser panier</string>
-    <string name="action_config">Configurer caisse</string>
+
     <string name="string_config">Configuration de la session utilisateur</string>
     <string name="string_error_config">Les champs sont mal renseignés.</string>
+
+    <!-- libelle menu item-->
+    <string name="action_caisse">Caisse</string>
+    <string name="action_boisson">bar</string>
+    <string name="action_snack">snack</string>
+    <string name="action_reinit">Réinitialiser</string>
+    <string name="action_create_json">Sauvegarder session</string>
+    <string name="action_config">Configurer</string>
+    <string name="string_a_propos">À propos</string>
 
     <!-- libelle detail panier-->
     <string name="string_commandes">Commandes</string>
@@ -35,8 +30,8 @@
     <string name="confirm_reinit">Voulez vous vraiment réinitialiser la caisse ?</string>
     <string name="ok">OK</string>
     <string name="annuler">Annuler</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="string_a_propos">À propos</string>
+    <string name="ac_vider">Vider</string>
+
     <string name="libelle_a_propos">Made by Gwada Incorporation</string>
     <string-array name="caisse_options">
         <item>Ajout liquide</item>
@@ -63,10 +58,18 @@
     <string name="date_commande">Date commande</string>
     <string name="nombre_d_articles">Nombre d\' articles</string>
     <string name="total_en">Total en €</string>
+    <!-- Popup recap -->
     <string name="r_glement_esp_ce">Règlement espèce:</string>
     <string name="r_glement_cb">Règlement CB:</string>
     <string name="total_caisse_courante_cb_espece">Total caisse courante CB + Espece</string>
     <string name="total_caisse_courante">Total caisse courante</string>
     <string name="liste_des_mouvements">Liste des mouvements</string>
-    <string name="action_create_json">Stark</string>
+    <string name="consigne">CONSIGNE</string>
+    <string name="retour">RETOUR</string>
+    <string name="detail_commande">Detail commande</string>
+    <string name="cb">CB</string>
+    <string name="espece">ESPECE</string>
+    <string name="total">TOTAL:</string>
+    <string name="key_detail_panier">key_detail_panier</string>
+
 </resources>

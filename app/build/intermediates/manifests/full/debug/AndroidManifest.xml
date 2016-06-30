@@ -7,7 +7,7 @@
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="19" />
+        android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -18,9 +18,10 @@
     <application
         android:allowBackup="true"
         android:configChanges="orientation"
-        android:icon="@drawable/fresca_logo"
+        android:icon="@drawable/icon"
         android:label="@string/app_name"
-        android:screenOrientation="landscape" >
+        android:screenOrientation="landscape"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
         <activity
             android:name="fr.info.antillesinfov2.activity.CaisseActivity"
             android:screenOrientation="landscape"

@@ -7,8 +7,369 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
+                    "endColumn": 117,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 117,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 107,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 107,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 122,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 122,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 105,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 105,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 106,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 106,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 89,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 89,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 100,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 100,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 114,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 114,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 76,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 923,
+                        "endColumn": 76,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endColumn": 77,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 77,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1128,
+                    "endColumn": 79,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 79,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1208,
+                    "endColumn": 111,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 111,
+                        "endOffset": 1265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 101,
+                    "endOffset": 1417
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1270,
+                        "endColumn": 101,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1422,
+                    "endColumn": 95,
+                    "endOffset": 1513
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 95,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1518,
+                    "endColumn": 108,
+                    "endOffset": 1622
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 108,
+                        "endOffset": 1572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1627,
+                    "endColumn": 100,
+                    "endOffset": 1723
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1577,
+                        "endColumn": 100,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1728,
+                    "endColumn": 114,
+                    "endOffset": 1838
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1678,
+                        "endColumn": 114,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1843,
+                    "endColumn": 122,
+                    "endOffset": 1961
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1793,
+                        "endColumn": 122,
+                        "endOffset": 1911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1966,
+                    "endColumn": 104,
+                    "endOffset": 2066
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1916,
+                        "endColumn": 104,
+                        "endOffset": 2016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2071,
                     "endColumn": 185,
-                    "endOffset": 286
+                    "endOffset": 2252
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -23,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 291,
+                    "startOffset": 2257,
                     "endColumn": 177,
-                    "endOffset": 464
+                    "endOffset": 2430
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -42,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 469,
+                    "startOffset": 2435,
                     "endColumn": 116,
-                    "endOffset": 581
+                    "endOffset": 2547
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -61,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 586,
+                    "startOffset": 2552,
                     "endColumn": 258,
-                    "endOffset": 840
+                    "endOffset": 2806
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -80,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 845,
+                    "startOffset": 2811,
                     "endColumn": 126,
-                    "endOffset": 967
+                    "endOffset": 2933
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -99,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 972,
+                    "startOffset": 2938,
                     "endColumn": 195,
-                    "endOffset": 1163
+                    "endOffset": 3129
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -118,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1168,
+                    "startOffset": 3134,
                     "endColumn": 124,
-                    "endOffset": 1288
+                    "endOffset": 3254
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -137,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1293,
+                    "startOffset": 3259,
                     "endColumn": 174,
-                    "endOffset": 1463
+                    "endOffset": 3429
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -156,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1468,
+                    "startOffset": 3434,
                     "endColumn": 123,
-                    "endOffset": 1587
+                    "endOffset": 3553
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -175,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1592,
+                    "startOffset": 3558,
                     "endColumn": 204,
-                    "endOffset": 1792
+                    "endOffset": 3758
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -194,11 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1797,
+                    "startOffset": 3763,
                     "endColumn": 207,
-                    "endOffset": 2000
+                    "endOffset": 3966
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -213,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2005,
+                    "startOffset": 3971,
                     "endColumn": 120,
-                    "endOffset": 2121
+                    "endOffset": 4087
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -232,11 +593,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2126,
+                    "startOffset": 4092,
                     "endColumn": 186,
-                    "endOffset": 2308
+                    "endOffset": 4274
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -251,11 +612,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2313,
+                    "startOffset": 4279,
                     "endColumn": 117,
-                    "endOffset": 2426
+                    "endOffset": 4392
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -270,11 +631,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2431,
+                    "startOffset": 4397,
                     "endColumn": 170,
-                    "endOffset": 2597
+                    "endOffset": 4563
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -289,11 +650,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2602,
+                    "startOffset": 4568,
                     "endColumn": 167,
-                    "endOffset": 2765
+                    "endOffset": 4731
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -308,11 +669,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2770,
+                    "startOffset": 4736,
                     "endColumn": 120,
-                    "endOffset": 2886
+                    "endOffset": 4852
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -327,11 +688,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2891,
+                    "startOffset": 4857,
                     "endColumn": 171,
-                    "endOffset": 3058
+                    "endOffset": 5024
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -346,11 +707,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3063,
+                    "startOffset": 5029,
                     "endColumn": 129,
-                    "endOffset": 3188
+                    "endOffset": 5154
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -365,11 +726,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3193,
+                    "startOffset": 5159,
                     "endColumn": 173,
-                    "endOffset": 3362
+                    "endOffset": 5328
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -384,11 +745,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3367,
+                    "startOffset": 5333,
                     "endColumn": 122,
-                    "endOffset": 3485
+                    "endOffset": 5451
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -403,11 +764,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3490,
+                    "startOffset": 5456,
                     "endColumn": 134,
-                    "endOffset": 3620
+                    "endOffset": 5586
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -422,11 +783,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3625,
+                    "startOffset": 5591,
                     "endColumn": 247,
-                    "endOffset": 3868
+                    "endOffset": 5834
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -441,11 +802,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3873,
+                    "startOffset": 5839,
                     "endColumn": 120,
-                    "endOffset": 3989
+                    "endOffset": 5955
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -460,11 +821,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3994,
+                    "startOffset": 5960,
                     "endColumn": 112,
-                    "endOffset": 4102
+                    "endOffset": 6068
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -479,11 +840,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 4107,
+                    "startOffset": 6073,
                     "endColumn": 184,
-                    "endOffset": 4287
+                    "endOffset": 6253
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -498,11 +859,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 4292,
+                    "startOffset": 6258,
                     "endColumn": 128,
-                    "endOffset": 4416
+                    "endOffset": 6382
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -517,11 +878,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4421,
+                    "startOffset": 6387,
                     "endColumn": 200,
-                    "endOffset": 4617
+                    "endOffset": 6583
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -536,11 +897,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 4622,
+                    "startOffset": 6588,
                     "endColumn": 134,
-                    "endOffset": 4752
+                    "endOffset": 6718
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -555,11 +916,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4757,
+                    "startOffset": 6723,
                     "endColumn": 88,
-                    "endOffset": 4841
+                    "endOffset": 6807
                 },
                 "from": {
                     "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mr-rIN\\common_strings.xml",
@@ -569,6 +930,25 @@
                         "startOffset": 4302,
                         "endColumn": 88,
                         "endOffset": 4386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6812,
+                    "endColumn": 100,
+                    "endOffset": 6908
+                },
+                "from": {
+                    "file": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2021,
+                        "endColumn": 100,
+                        "endOffset": 2117
                     }
                 }
             }

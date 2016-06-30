@@ -3,9 +3,13 @@ package fr.info.antillesinfov2.activity;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.Menu;
@@ -42,7 +46,7 @@ import fr.info.antillesinfov2.fragment.PanierFragment.OnFragmentPanierInteractio
 import fr.info.antillesinfov2.fragment.ProduitsFragment;
 import fr.info.antillesinfov2.fragment.ProduitsFragment.OnProduitsFragmentInteractionListener;
 
-public class CaisseActivity extends Activity implements OnProduitsFragmentInteractionListener, OnFragmentPanierInteractionListener, OnTaskCompleted {
+public class CaisseActivity extends AppCompatActivity implements OnProduitsFragmentInteractionListener, OnFragmentPanierInteractionListener, OnTaskCompleted {
 
     private List<Produit> produits = new ArrayList<Produit>();
     private Map<String, Integer> articlesMap = new HashMap<String, Integer>();
@@ -67,11 +71,47 @@ public class CaisseActivity extends Activity implements OnProduitsFragmentIntera
         /*getActionBar().setLogo(R.drawable.fresca);
         getActionBar().setDisplayUseLogoEnabled(true);
         getActionBar().setDisplayShowHomeEnabled(true);*/
-        getActionBar().setTitle("");
+        /*getActionBar().setTitle("");
+        getActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#5e9c00")));
         getActionBar().setDisplayUseLogoEnabled(false);
-        getActionBar().setDisplayShowHomeEnabled(false);
+        getActionBar().setDisplayShowHomeEnabled(false);*/
 
+        //setSupportActionBar(toolbar);
         setContentView(R.layout.activity_caisse);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.my_toolbar);
+        toolbar.setTitle("");
+        setSupportActionBar(toolbar);
+
+
+        //récupération du handler permettant d'enregistrer les informations dans le panier
+        //soit sur la tablette
+        //soit directement en base de données
+        caisseDao = CaisseDao.getInstance(this);
+        //caisseDao.setSp(getPreferences(MODE_APPEND));
+
+        //création d'un handler permettant de gérer les boites de dialogues
+        dialogHandler = new DialogHandler(CaisseActivity.this);
+        caisseDao.setSp(getSharedPreferences("fr.salsafresca.caisse.test_fresca", MODE_APPEND));
+        caisseDao.initData();
+        caisseDao.setFileWriter(new FileWriter());
+        tv = (TextView) findViewById(R.id.total_caisse);
+        tv.setText(Double.toString(total));
+
+        //affichage de la popup permettant de gérer les infos de session et de caisse
+        ConnectivityManager connMgr = (ConnectivityManager)
+                getSystemService(Context.CONNECTIVITY_SERVICE);
+        //NetworkInfo networkInfo = connMgr.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
+        NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
+        if ((networkInfo != null) && networkInfo.isConnected()) {
+            //synchronisation des paniers enregistrés
+            caisseDao.sendOldData();
+            //récupération de la session
+            new UtilsAsyncTask(this).execute(Constant.URL_SESSION);
+        } else {
+            //affichage de la popup de configuration
+            dialogHandler.showDialogConfig();
+        }
+
         //plug des methodes de bouton
         //action réalisée validation de panier via CB
         Button validerCBButton = (Button) findViewById(R.id.button_cb);
@@ -103,36 +143,9 @@ public class CaisseActivity extends Activity implements OnProduitsFragmentIntera
             }
         });
 
-        //récupération du handler permettant d'enregistrer les informations dans le panier
-        //soit sur la tablette
-        //soit directement en base de données
-        caisseDao = CaisseDao.getInstance(this);
-        //caisseDao.setSp(getPreferences(MODE_APPEND));
-
-        //création d'un handler permettant de gérer les boites de dialogues
-        dialogHandler = new DialogHandler(CaisseActivity.this);
-        caisseDao.setSp(getSharedPreferences("fr.salsafresca.caisse.test_fresca", MODE_APPEND));
-        caisseDao.initData();
-        caisseDao.setFileWriter(new FileWriter());
-        tv = (TextView) findViewById(R.id.total_caisse);
-        tv.setText(Double.toString(total));
         //initialisation des fragments de l'applicaton
         panierFragment = (PanierFragment) getFragmentManager().findFragmentById(R.id.panier_fragment);
         produitsFragment = (ProduitsFragment) getFragmentManager().findFragmentById(R.id.produits_fragment);
-        //affichage de la popup permettant de gérer les infos de session et de caisse
-        ConnectivityManager connMgr = (ConnectivityManager)
-                getSystemService(Context.CONNECTIVITY_SERVICE);
-        //NetworkInfo networkInfo = connMgr.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
-        NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
-        if ((networkInfo != null) && networkInfo.isConnected()) {
-            //synchronisation des paniers enregistrés
-            caisseDao.sendOldData();
-            //récupération de la session
-            new UtilsAsyncTask(this).execute(Constant.URL_SESSION);
-        } else {
-            //affichage de la popup de configuration
-            dialogHandler.showDialogConfig();
-        }
         Log.i("CaisseActivity", "onCreate");
     }
 
@@ -182,7 +195,7 @@ public class CaisseActivity extends Activity implements OnProduitsFragmentIntera
         SimpleDateFormat sdf = new SimpleDateFormat("HH:mm dd/MM/yyyy", Locale.FRANCE);
         dpc.setDate(sdf.format(new Date()));
         //rajout de données dans detail panier commande
-        caisseDao.getDetailPanierCommandes().add(dpc);
+        caisseDao.saveDetailPanier(dpc);
     }
 
     /**

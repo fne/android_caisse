@@ -2,13 +2,15 @@ package fr.info.antillesinfov2.business.service;
 
 import android.app.Activity;
 import android.content.SharedPreferences;
+import android.media.MediaScannerConnection;
 import android.os.AsyncTask;
+import android.os.Environment;
 import android.util.Log;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import com.squareup.okhttp.Response;
 
-import org.apache.http.HttpResponse;
 
 import java.io.IOException;
 import java.lang.reflect.Type;
@@ -91,9 +93,12 @@ public class CaisseDao {
         Date date = new Date();
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd", Locale.FRANCE);
         fileWriter.writeCsvFile("/reinitCSV" + sdf.format(date) + Long.toString(date.getTime()) + ".csv", getRetraits(), getData(activity.getString(R.string.key_total_cb)), getData(activity.getString(R.string.key_total_espece)), montantTotal);
+        writeData();
+        MediaScannerConnection.scanFile(activity, new String[]{Environment.getExternalStoragePublicDirectory("csv").getAbsolutePath()}, null, null);
         //clean data
         SharedPreferences.Editor editor = sp.edit();
         editor.remove(activity.getString(R.string.key_liste_mouvements));
+        editor.remove(activity.getString(R.string.key_detail_panier));
         saveData(activity.getString(R.string.key_total), "0.0");
         saveData(activity.getString(R.string.key_total_cb), "0.0");
         saveData(activity.getString(R.string.key_total_espece), "0.0");
@@ -103,8 +108,8 @@ public class CaisseDao {
     public void writeData() {
         //create fileWriter
         Date date = new Date();
-        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd", Locale.FRANCE);
-        fileWriter.writeJsonFile("/reinitCSV" + sdf.format(date) + Long.toString(date.getTime()) + ".json", getData(activity.getString(R.string.key_panier)));
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd-HH-mm", Locale.FRANCE);
+        fileWriter.writeJsonFile("/json" + sdf.format(date) + ".json", getData(activity.getString(R.string.key_panier)));
     }
 
     private List<Retrait> getRetraits() {
@@ -194,6 +199,12 @@ public class CaisseDao {
         this.detailPanierCommandes = detailPanierCommandes;
     }
 
+    public void saveDetailPanier(DetailPanierCommande dpc) {
+        Gson gson = new Gson();
+        getDetailPanierCommandes().add(dpc);
+        saveData(activity.getString(R.string.key_detail_panier),gson.toJson(getDetailPanierCommandes()));
+    }
+
     /**
      * Tache permettant de recuperer les infos via un flux et de completer le
      * layout
@@ -233,15 +244,14 @@ public class CaisseDao {
             } else if (sp.contains(activity.getString(R.string.key_panier))) {
                 Log.i(this.getClass().getName(), "envoi du panier sauvegardé");
                 try {
-
-                    HttpResponse response = mHttpClient.post(URL_PANIER, getData(activity.getString(R.string.key_panier)));
-                    if (response.getStatusLine().getStatusCode() == 201) {
+                    Response response = mHttpClient.post(URL_PANIER, getData(activity.getString(R.string.key_panier)));
+                    if (response.isSuccessful()) {
                         SharedPreferences.Editor editor = sp.edit();
                         editor.remove(activity.getString(R.string.key_panier));
                         editor.commit();
-                        Log.i(getClass().getName(), "test");
                     }
-                } catch (IOException e) {
+                        Log.i(getClass().getName(), "test");
+                } catch (Exception e) {
                     e.printStackTrace();
                 }
                 ;

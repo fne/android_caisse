@@ -1,43 +1,99 @@
 [
     {
-        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cocalight.jpg",
-        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\cocalight.jpg"
-    },
-    {
-        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coca.jpg",
-        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\coca.jpg"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cafe.jpg",
         "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\cafe.jpg"
     },
     {
-        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fresca_logo.jpg",
-        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\fresca_logo.jpg"
-    },
-    {
-        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linear_border.xml",
-        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\linear_border.xml"
-    },
-    {
         "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oasis_orange.jpg",
         "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\oasis_orange.jpg"
     },
     {
-        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eau.jpg",
-        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\eau.jpg"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_ic_clear_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\perrier.jpg",
-        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\perrier.jpg"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\the.jpg",
-        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\the.jpg"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\desperados.jpg",
         "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\desperados.jpg"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oasis_tropical.jpg",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\oasis_tropical.jpg"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coca.jpg",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\coca.jpg"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fresca_logo.jpg",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\fresca_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linear_border_horizontal.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\linear_border_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\redbull.jpg",
@@ -48,8 +104,104 @@
         "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\background_listview.xml"
     },
     {
-        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oasis_tropical.jpg",
-        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\oasis_tropical.jpg"
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cocalight.jpg",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\cocalight.jpg"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linear_border.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\linear_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eau.jpg",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\eau.jpg"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\perrier.jpg",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\perrier.jpg"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.1\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\the.jpg",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\src\\main\\res\\drawable\\the.jpg"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Users\\qjrs8151\\private\\android_caisse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
